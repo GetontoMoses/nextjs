@@ -1,0 +1,1 @@
+export default function NewUsers() {return <main><h1> Hello New Users</h1></main>}
